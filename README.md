@@ -51,8 +51,7 @@ A modern, full-stack blog application built with Next.js, Hono, and PostgreSQL. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hamburger.git
-   cd hamburger/hono-app
+   git clone https://github.com/ProgrammingDump/hono-crud-app.git
    ```
 
 2. **Install dependencies**
